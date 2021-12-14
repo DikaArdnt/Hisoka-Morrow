@@ -10,16 +10,16 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'apikey Lhu',
-	'https://api.dapuhy.ga': 'regis dulu',
-	'https://zenzapi.xyz': 'regis dulu',
+	'https://api.lolhuman.xyz': 'b3120153c92d216fc9b6694b',
+	'https://api.dapuhy.ga': 'UDlQHN0qTz',
+	'https://zenzapi.xyz': '3ce9652946',
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
-global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.owner = ['625345020308']
+global.packname = 'Sticker Gabut'
+global.author = 'Michael.H.L'
+global.sessionName = 'MiTester Botz'
 global.connVersion = [2, 2142, 12]
 global.prefa = '!'
 global.sp = '⭔'
