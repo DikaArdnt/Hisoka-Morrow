@@ -1,7 +1,7 @@
 {
-  "name": "hisoka-bot",
+  "name": "Mitester-Botz",
   "version": "1.0.0",
-  "description": "WhatsApp Bot Using Lib Baileys",
+  "description": "Just want want run dude",
   "main": "index.js",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/adiwajshing/baileys.git",
