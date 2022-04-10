@@ -16,8 +16,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6285251626154']
+global.packname = 'RND'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'hisoka'
 global.connVersion = [2, 2142, 12]
