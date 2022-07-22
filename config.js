@@ -27,7 +27,7 @@ global.mess = {
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    group: 'https://chat.whatsapp.com/IHSGanUvI4UHeyPten6Hrt',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     wait: 'Loading...',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
